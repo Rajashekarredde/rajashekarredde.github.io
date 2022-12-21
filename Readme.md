@@ -3,6 +3,7 @@
 
 :star: Star me on GitHub — it helps!
 
+
 [![Maintenance](https://img.shields.io/badge/maintained-yes-green.svg)](https://github.com/Rajashekarredde/rajashekarredde.github.io/commits/master)
 [![Website shields.io](https://img.shields.io/badge/website-up-yellow)](http://rajashekarredde.github.io/)
 [![Ask Me Anything !](https://img.shields.io/badge/ask%20me-linkedin-1abc9c.svg)](https://www.linkedin.com/in/rajashekar-reddy-kommula-749473140/)
@@ -10,7 +11,7 @@
 
 ### Website Preview
 #### Home Page
-<img src="website_images/HomePage.gif" width="900">
+https://user-images.githubusercontent.com/32640055/208946649-b70858b8-5c84-4f61-ac48-7b7d82f66920.mov
 
 
 #### About Page
