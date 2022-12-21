@@ -15,12 +15,7 @@ https://user-images.githubusercontent.com/32640055/208946649-b70858b8-5c84-4f61-
 
 
 #### About Page
-<img src="website_images/AboutPage.png" width="900">
-
-
-#### Projects Page
-<img src="website_images/ProjectPage.png" width="900">
-  
+<img width="1440" alt="Screen Shot 2022-12-21 at 7 52 47 AM" src="https://user-images.githubusercontent.com/32640055/208947146-aef51162-e411-4410-907d-8de233f6cbfb.png">
 
 
 :star: Star me on GitHub — it helps!
